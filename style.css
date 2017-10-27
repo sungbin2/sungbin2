@@ -10,10 +10,10 @@
     font-weight: 200;
   }
   .scene.one{
-    background-image: url(./images/set1.jpg);
+    background-image: url(https://source.unsplash.com/category/nature/1600x900);
   }
   .scene.two{
-    background-image: url(https://source.unsplash.com/category/nature/1600x900);
+    background-image: url(./images/set1.jpg);
   }
   .scene.three{
     background-image: url(./images/set2.jpg);
