@@ -10,13 +10,13 @@
     font-weight: 200;
   }
   .scene.one{
-    background-image: url(https://source.unsplash.com/category/nature/1600x900);
+    background-image: url(./images/set7.jpg);
   }
   .scene.two{
-    background-image: url(./images/set1.jpg);
+    background-image: url(./images/set6.jpg);
   }
   .scene.three{
-    background-image: url(./images/set2.jpg);
+    background-image: url(./images/set4.jpg);
   }
   .scene header{
     color:white;
@@ -38,7 +38,7 @@
     font-size:8rem;
   }
   section{
-    background-color: rgb(255,0,0,0.2)
+    background-color: rgb(255,0,0,0.2);
   }
   .scene header h1:after{
     content:'';
@@ -48,3 +48,41 @@
     margin:0 auto;
     margin-top:1rem;
   }
+
+
+.control{
+  background-color: rgba(0, 0, 0, 0.5);
+  color:white;
+  position: fixed;
+  bottom:0;
+  width:100%;
+  padding:0 1rem;
+}
+.control ul{
+  list-style: none;
+  padding-left:0;
+}
+.control li{
+  display:inline-block;
+  padding:0 0.5rem;
+}
+.control a{
+  color:white;
+  text-decoration: none;
+}
+.control>*{
+  display: inline-block;
+}
+.control .player{
+  position: absolute;
+  right:3rem;
+}
+.control .player a{
+  font-size:1.2rem;    
+}
+.control .player a:hover{
+  color:black;
+}
+.control .player a>span{
+  display: none;
+}
