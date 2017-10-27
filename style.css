@@ -68,7 +68,7 @@
   padding:0 0.5rem;
 }
 .control a{
-    font-size: 1.5rem;
+    font-size: 1rem;
   color:white;
   text-decoration: none;
 }
@@ -80,10 +80,10 @@
 }
 .control .player{
   position: absolute;
-  right:1.5rem;
+  right:2rem;
 }
 .control .player a{
-  font-size:2rem;    
+  font-size:1.2rem;    
 }
 .control .player a:hover{
   color:gray;
