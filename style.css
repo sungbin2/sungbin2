@@ -18,6 +18,9 @@
   .scene.three{
     background-image: url(./images/set4.jpg);
   }
+  .scene.back{
+    background-image: url(./images/set3.jpg);
+  }
   .scene header{
     color:white;
     max-width: 80%;
