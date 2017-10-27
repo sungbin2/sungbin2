@@ -34,7 +34,11 @@
     font-weight: 300;
   }
   .one{
+
     font-size:8rem;
+  }
+  section{
+    background-color: rgb(255,0,0,0.2)
   }
   .scene header h1:after{
     content:'';
