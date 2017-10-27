@@ -56,7 +56,7 @@
   position: fixed;
   bottom:0;
   width:100%;
-  height: 5rem;
+  height: 3rem;
   padding:0 1rem;
 }
 .control ul{
@@ -68,7 +68,7 @@
   padding:0 0.5rem;
 }
 .control a{
-    font-size: 2rem;
+    font-size: 1.5rem;
   color:white;
   text-decoration: none;
 }
@@ -80,7 +80,7 @@
 }
 .control .player{
   position: absolute;
-  right:3rem;
+  right:1.5rem;
 }
 .control .player a{
   font-size:2rem;    
