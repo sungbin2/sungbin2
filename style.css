@@ -56,6 +56,7 @@
   position: fixed;
   bottom:0;
   width:100%;
+  height: 5rem;
   padding:0 1rem;
 }
 .control ul{
@@ -67,8 +68,12 @@
   padding:0 0.5rem;
 }
 .control a{
+    font-size: 2rem;
   color:white;
   text-decoration: none;
+}
+.control a:hover{
+  color:gray;
 }
 .control>*{
   display: inline-block;
@@ -78,10 +83,10 @@
   right:3rem;
 }
 .control .player a{
-  font-size:1.2rem;    
+  font-size:2rem;    
 }
 .control .player a:hover{
-  color:black;
+  color:gray;
 }
 .control .player a>span{
   display: none;
